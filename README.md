@@ -1,4 +1,6 @@
 SmartPtr
 ========
 
-Smart Pointer Implementation
+Smart Pointer Implementation.
+
+I need to get around to finishing this.
